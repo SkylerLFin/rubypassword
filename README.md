@@ -6,3 +6,5 @@ I have four extra small files attached that show the simple implmenation of the 
 (goto.rb, goto2.rb) use the 'goto' gem and show how it works.
 
 (pepper.rb, salty.rb) show how the 'conceal' gem functions.
+
+Small error when opening files will update within week
